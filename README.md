@@ -35,6 +35,6 @@ Training occurs inside Unity using the **ML-Agents Toolkit**, with the environme
 
 ## Sceenshots
 
-![Agent](Assets/Screenshots/agent.png)
+![Agent](Screenshots/agent.png)
 
 [Watch Training Video](Assets/Videos/training.mp4)
